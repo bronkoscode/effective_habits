@@ -6,3 +6,9 @@ This is the first habit and builts the basis for all following habits. My unders
 
 1. The circle of influence
 2. The commitment reminder
+3. The encounter simulator
+
+The circle of influence is a visual tool that helps to determine whether a problem is a direct, indirect or no control problem. The commitment reminder helps to define and remind you of your commitments. The encounter simulator, helps you to formulate your response to new encounters.
+
+#Begin with the end in mind
+
